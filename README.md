@@ -10,8 +10,8 @@ To clone the repository, open a terminal and enter the following command:
 ```
 git clone https://github.com/matan53153/image-generation-community
 ```
-
-
+### Creating a custom image
 ![Create page](readmeFiles/Capture-2023-10-19-220047.png)
 
+### Viewing the community image showcase
 ![Alt text](<readmeFiles/Screenshot 2023-10-19 at 10.01.26 PM.png>)
