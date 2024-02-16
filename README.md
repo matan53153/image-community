@@ -1,9 +1,16 @@
-# dalle
+# Image Generation Community
 
-Image generation app using OpenAI DALL-E api using MERN stack (inspired by JavaScript Mastery youtube channel). 
-Used Cloudinary to store image files and netlify and render to host online.
+A website that allows users to generate custom images using the OpenAI DALL-E API and submit them to a community showcase that everyone can view. It is run on the MERN stack (inspired by JavaScript Mastery youtube channel) and uses Cloudinary to store image files and netlify to host online.
 
-link to website: https://charming-smakager-491f0c.netlify.app/
+link to website: [Image Generation](https://charming-smakager-491f0c.netlify.app/)
+
+### Cloning the repository
+
+To clone the repository, open a terminal and enter the following command:
+```
+git clone https://github.com/matan53153/image-generation-community
+```
+
 
 ![Create page](readmeFiles/Capture-2023-10-19-220047.png)
 
