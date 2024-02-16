@@ -8,7 +8,7 @@ link to website: [Image Generation](https://charming-smakager-491f0c.netlify.app
 
 To clone the repository, open a terminal and enter the following command:
 ```
-git clone https://github.com/matan53153/image-generation-community
+git clone https://github.com/matan53153/image-community
 ```
 ### Creating a custom image
 ![Create page](readmeFiles/Capture-2023-10-19-220047.png)
